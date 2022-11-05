@@ -10,3 +10,5 @@ Step #2: Upload given (csv) files in the current directory of DFA.ipynb.
 (There are 3 DFAs in the code use 1 of any and comment others to see changes )
 
 Step #3: Now run each cell one by one!
+
+Note: Images of respective DFA's are given!
